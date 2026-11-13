@@ -4,7 +4,7 @@
 
 const SCRIPT_EXEC_URL = "https://script.google.com/macros/s/AKfycby3EkWdDHOIw-VsRNJg9rnIXgRRIUolJJRmj4gTxjP6sG6_gylljgn9GPh9Vc-dXjr-zg/exec";
 const PAGE_PATH = "/en/series/avatar-seven-havens/season/1/episode/1";
-const PAGE_URL = `https://www.webdesignbe.com${PAGE_PATH}`;
+const PAGE_URL = `https://crawl.webdesignbe.com${PAGE_PATH}`;
 
 const LANGUAGES = ["en", "es", "pt", "fr", "de", "it", "tr", "ru", "ja", "ko", "hi", "ar", "zh"];
 
